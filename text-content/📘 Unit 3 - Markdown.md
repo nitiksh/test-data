@@ -1809,20 +1809,6 @@ After this chapter, you clearly understand:
 
 ---
 
-<div align="center">
-
-|                                                                                             **Typical VM Architecture**                                                                                              |                                                      **Virtual Machine Layers**                                                       |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://www.researchgate.net/profile/San-Murugesan/publication/270058181/figure/fig2/AS%3A670717515407370%401536922925442/Typical-Virtual-Machine-architecture-1.png?utm_source=chatgpt.com" width="400"/> | <img src="https://www.techtarget.com/rms/onlineimages/virtual_machines-h_half_column_mobile.png?utm_source=chatgpt.com" width="400"/> |
-
-|                                                                                   **Type 2 Hypervisor**                                                                                   |                                                        **Hypervisor Types**                                                         |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/bltef4f4e5acd5c9af3/662120d02b1c9d903c2d134b/Hypervisor101-Type2-470.jpg?utm_source=chatgpt.com" width="400"/> | <img src="https://www.dnsstuff.com/wp-content/uploads/2019/10/what-is-hypervisor-1024x536.jpg?utm_source=chatgpt.com" width="400"/> |
-
-</div>
-
----
-
 # **Chapter 7: Virtual Machines**
 
 _(Fully based on PPT + clear external explanation)_
@@ -2131,18 +2117,6 @@ After this chapter, you clearly understand:
 - Strong foundation for cloud and servers
 
 ---
-
-<div align="center">
-
-|                                          **Date Command Example**                                          |                                                  **CLI Example**                                                   |
-| :--------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
-| <img src="https://kinsta.com/wp-content/uploads/2021/08/new-date.png?utm_source=chatgpt.com" width="400"/> | <img src="https://media.geeksforgeeks.org/wp-content/uploads/cli_example.png?utm_source=chatgpt.com" width="400"/> |
-
-|                                                                  **ls Command Long Listing**                                                                  |                                                   **ls Command Output**                                                   |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://www.computernetworkingnotes.com/wp-content/uploads/linux-tutorials/images/lt85-05-ls-long-listing.png?utm_source=chatgpt.com" width="400"/> | <img src="https://detailed.wordpress.com/wp-content/uploads/2017/10/ls-command3.jpg?utm_source=chatgpt.com" width="400"/> |
-
-</div>
 
 # **Chapter 8: Linux Shell Commands**
 
@@ -2562,18 +2536,6 @@ After this chapter, you clearly understand:
 - No confusion
 
 ---
-
-<div align="center">
-
-|                                                       **Kernel Architecture**                                                       |                                                                                        **Kernel Hardware Relation**                                                                                        |
-| :---------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://media.geeksforgeeks.org/wp-content/uploads/20250124124411692602/kernel.webp?utm_source=chatgpt.com" width="400"/> | <img src="https://www.researchgate.net/publication/261248176/figure/fig1/AS%3A392453707321347%401470579663151/The-Kernel-Relation-with-Hardware-and-Applications.png?utm_source=chatgpt.com" width="400"/> |
-
-|                                             **Linux Fundamental Architecture**                                              |                                                                      **Linux Kernel Labs**                                                                       |
-| :-------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://www.scaler.com/topics/images/fundamental-architecture-of-linux.webp?utm_source=chatgpt.com" width="400"/> | <img src="https://linux-kernel-labs.github.io/refs/heads/master/_images/ditaa-b9ffae65be16d30be11b5eca188a7a143b1b8227.png?utm_source=chatgpt.com" width="400"/> |
-
-</div>
 
 # **Chapter 9: Kernel and Types of Kernels**
 
